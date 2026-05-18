@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Dockkkkkkkkk.github.io/archive-ajgcx8/sitemap.xml
